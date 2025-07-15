@@ -16,5 +16,5 @@ This is a simplified RISC-style processor project implemented in Verilog as part
 
 ## 👤 Author
 Sudheer Vadrevu  
-M.Sc. in Embedded Systems  
+Master Of Science in Computer Science  
 Blekinge Institute of Technology (BTH), Sweden
