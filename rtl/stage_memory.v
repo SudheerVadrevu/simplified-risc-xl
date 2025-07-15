@@ -1,1 +1,4 @@
-// stage_memory.v - placeholder
+// Memory Stage
+module stage_memory;
+    // Placeholder
+endmodule

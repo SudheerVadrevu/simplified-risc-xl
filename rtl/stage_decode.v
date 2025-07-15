@@ -1,1 +1,4 @@
-// stage_decode.v - placeholder
+// Decode Stage
+module stage_decode;
+    // Placeholder
+endmodule

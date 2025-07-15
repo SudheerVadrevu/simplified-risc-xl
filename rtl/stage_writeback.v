@@ -1,1 +1,4 @@
-// stage_writeback.v - placeholder
+// Writeback Stage
+module stage_writeback;
+    // Placeholder
+endmodule

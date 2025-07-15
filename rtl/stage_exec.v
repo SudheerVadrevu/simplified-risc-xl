@@ -1,1 +1,4 @@
-// stage_exec.v - placeholder
+// Execute Stage
+module stage_exec;
+    // Placeholder
+endmodule
